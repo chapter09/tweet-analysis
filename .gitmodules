@@ -1,0 +1,3 @@
+[submodule "langid.py"]
+	path = ./src/langid.py
+	url = https://github.com/saffsd/langid.py.git
